@@ -201,6 +201,10 @@ body{
         flex-direction: column;
         
     }
+      .about2 {
+        flex-direction: column;
+        
+    }
     .lyrics-title{
         height: 3vh;
     }
